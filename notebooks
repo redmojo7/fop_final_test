@@ -1,0 +1,22 @@
+An approach to sharing code is publishing notebooks. Describe this
+approach and how it impacts reproducibility
+
+A notebook lets you:
+Fundamentals_Lecture8
+• explore ideas
+• present workflows
+• show overall logic of research process
+• refine analysis or workflow over time
+• create presentations
+
+Another approach to sharing code is publishing packages. Describe this
+approach and how it can help the research community
+
+
+• We've imported modules and packages to gain access to functions written by others
+• We've created functions inside our programs to reuse throughout the programs
+• If we want to reuse the functions in many programs…
+• Create our own module
+• Import the module into our programs
+
+• If we had a group of related modules, we could group them in a package
